@@ -37,6 +37,10 @@
                             <constraint firstItem="LEJ-XM-6d9" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" constant="-20" id="aSQ-Gu-O0M"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="button" destination="LEJ-XM-6d9" id="aGh-PI-oFd"/>
+                        <outlet property="niceHaircut" destination="2mK-Ph-zer" id="SPY-Qe-CIx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
